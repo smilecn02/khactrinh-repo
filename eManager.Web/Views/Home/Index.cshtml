@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>Index</h2>
+
+<div ng-controller="HomeController">
+    {{Message}}
+
+    <input type="text" ng-model="name" />
+    <h2>Welcome {{name}}</h2>
+</div>
+
