@@ -1,0 +1,4 @@
+c:\users\u0153056\documents\visual studio 2010\Projects\ReadExcelInToDataSet\ReadExcelInToDataSet\bin\ReadExcelInToDataSet.dll
+c:\users\u0153056\documents\visual studio 2010\Projects\ReadExcelInToDataSet\ReadExcelInToDataSet\bin\ReadExcelInToDataSet.pdb
+c:\users\u0153056\documents\visual studio 2010\Projects\ReadExcelInToDataSet\ReadExcelInToDataSet\obj\Debug\ReadExcelInToDataSet.dll
+c:\users\u0153056\documents\visual studio 2010\Projects\ReadExcelInToDataSet\ReadExcelInToDataSet\obj\Debug\ReadExcelInToDataSet.pdb
