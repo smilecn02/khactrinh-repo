@@ -1,0 +1,2 @@
+jQuery Tabs Tutorial
+http://www.jacklmoore.com/notes/jquery-tabs/
