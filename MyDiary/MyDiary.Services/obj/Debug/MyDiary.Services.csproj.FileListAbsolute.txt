@@ -1,0 +1,9 @@
+D:\dev-myprojects\MyDiary\MyDiary.Services\bin\Debug\MyDiary.Services.dll
+D:\dev-myprojects\MyDiary\MyDiary.Services\bin\Debug\MyDiary.Services.pdb
+D:\dev-myprojects\MyDiary\MyDiary.Services\bin\Debug\MyDiary.Data.dll
+D:\dev-myprojects\MyDiary\MyDiary.Services\bin\Debug\EntityFramework.dll
+D:\dev-myprojects\MyDiary\MyDiary.Services\bin\Debug\MyDiary.Data.pdb
+D:\dev-myprojects\MyDiary\MyDiary.Services\bin\Debug\EntityFramework.xml
+D:\dev-myprojects\MyDiary\MyDiary.Services\obj\Debug\MyDiary.Services.csprojResolveAssemblyReference.cache
+D:\dev-myprojects\MyDiary\MyDiary.Services\obj\Debug\MyDiary.Services.dll
+D:\dev-myprojects\MyDiary\MyDiary.Services\obj\Debug\MyDiary.Services.pdb

@@ -1,0 +1,12 @@
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\MyDiary.Data.dll.config
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\MyDiary.Data.dll
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\MyDiary.Data.pdb
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\EntityFramework.dll
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\EntityFramework.xml
+D:\dev-myprojects\MyDiary\MyDiary.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\dev-myprojects\MyDiary\MyDiary.Data\obj\Debug\MyDiary.Data.csprojResolveAssemblyReference.cache
+D:\dev-myprojects\MyDiary\MyDiary.Data\obj\Debug\MyDiary.Data.dll
+D:\dev-myprojects\MyDiary\MyDiary.Data\obj\Debug\MyDiary.Data.pdb
+D:\dev-myprojects\MyDiary\MyDiary.Data\obj\Debug\MyDiary.Data.Migrations.initial_migration.resources
+D:\dev-myprojects\MyDiary\MyDiary.Data\obj\Debug\MyDiary.Data.csproj.GenerateResource.Cache
