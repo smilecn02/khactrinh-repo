@@ -1,0 +1,6 @@
+D:\dev-myprojects\AngularMobileApp\AngularMobileApp.Client\bin\AngularMobileApp.Client.dll.config
+D:\dev-myprojects\AngularMobileApp\AngularMobileApp.Client\bin\AngularMobileApp.Client.dll
+D:\dev-myprojects\AngularMobileApp\AngularMobileApp.Client\bin\AngularMobileApp.Client.pdb
+D:\dev-myprojects\AngularMobileApp\AngularMobileApp.Client\obj\Debug\AngularMobileApp.Client.csprojResolveAssemblyReference.cache
+D:\dev-myprojects\AngularMobileApp\AngularMobileApp.Client\obj\Debug\AngularMobileApp.Client.dll
+D:\dev-myprojects\AngularMobileApp\AngularMobileApp.Client\obj\Debug\AngularMobileApp.Client.pdb
